@@ -6,7 +6,7 @@
  - Edit project paths and includes
 
  # info
- - Injects on all Minecraft Launcher versions (Forge/Cheatbreaker/Optifine)
+ - Injects on all Minecraft Launcher versions (Vanilla/Forge/Cheatbreaker/Optifine)
 
  # todo
  - Add features
