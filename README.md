@@ -4,6 +4,7 @@
 # setup
  - Download [Java SDK 17](https://www.oracle.com/ca-en/java/technologies/downloads/)
  - Edit project paths and includes
+ - Change the file extension to `.dll`
 
  # info
  - Injects on all Minecraft Launcher versions (Vanilla/Forge/Cheatbreaker/Optifine)
