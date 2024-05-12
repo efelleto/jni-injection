@@ -4,7 +4,7 @@
 # setup
  - Download [Java SDK 17](https://www.oracle.com/ca-en/java/technologies/downloads/)
  - Edit project paths and includes
- - Change the file extension to `.dll` ; use `C++ 17` standard ; change the system linker to `Windows` mode
+ - Change the file extension to `.dll` ; use `C++ 17` ; system linker to `Windows` mode
 
  # info
  - Injects on all Minecraft Launcher versions (Vanilla/Forge/Cheatbreaker/Optifine)
